@@ -1,0 +1,66 @@
+body {
+margin: 0px auto ;
+width: 50%;
+border: solid 1px black;
+padding: 0px 70px 30px;
+font-family: 'Merriweather', serif;
+font-size: 100%;}
+
+h1{
+   font-style: normal;
+  font-family: 'Sacramento', cursive;
+  font-size: 3.125rem;
+
+}
+
+table, th, td {
+  border:1px solid black;
+  width : 25px;
+  height: 25px;
+  
+
+}
+
+th, td, caption {
+  border: 1px solid;
+  border-collapse: separate;
+  padding: 0.625rem;
+}
+
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+}
+hr{
+  border-style: dotted none none;
+  width: 15%;
+  border-width: 10px;
+  color: grey;
+}
+
+.copywrite{
+  margin: 50px 0px 5px;
+  padding: 20px 5px;
+  text-align: center;
+
+}
+
+
+
+
+.LTS {
+  height: 2;
+  font-weight: 100;
+}
+.details {
+  margin: 30px auto;
+
+}
+
+.details :hover{
+  color: blue;
+
+}
